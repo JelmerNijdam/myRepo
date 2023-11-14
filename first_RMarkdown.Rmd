@@ -1,8 +1,10 @@
 ---
-title: "My own RMarkdown file"
+title: "My own changed RMarkdown file "
 author: "Jelmer Nijdam"
 date: "2023-11-14"
 output: html_document
 ---
 
 This is my first RMarkdown file tracked by Git!!
+
+# Adding some changes to the RMarkdown and changing title
